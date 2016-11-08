@@ -1,0 +1,1152 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2016-11-01T13:55:28</o:Created>
+     <o:LastSaved>2016-11-04T11:23:50</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-10.1.0.6029</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font3
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font4
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#0000FF;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#800080;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font13
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font15
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \\¥* \#\,\#\#0_ \;_ \\¥* \\-\#\,\#\#0_ \;_ \\¥* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \\¥* \#\,\#\#0\.00_ \;_ \\¥* \\-\#\,\#\#0\.00_ \;_ \\¥* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>产品库存</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>285</x:DefaultRowHeight>
+        <x:Selected/>
+        <x:TopRowVisible>21</x:TopRowVisible>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>2</x:ActiveCol>
+          <x:ActiveRow>51</x:ActiveRow>
+          <x:RangeSelection>C52</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>12300</x:WindowHeight>
+     <x:WindowWidth>14310</x:WindowWidth>
+    </x:ExcelWorkbook>
+    <x:ExcelName>
+     <x:Name>_FilterDatabase</x:Name>
+     <x:Hidden/>
+     <x:SheetIndex>1</x:SheetIndex>
+     <x:Formula>=产品库存!$C$1:$C$52</x:Formula>
+    </x:ExcelName>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="886" border="0" cellpadding="0" cellspacing="0" style='width:664.50pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="0" style='display:none;mso-width-source:userset;mso-width-alt:3936;'/>
+   <col width="0" style='display:none;mso-width-source:userset;mso-width-alt:8096;'/>
+   <col width="742" style='mso-width-source:userset;mso-width-alt:23744;'/>
+   <col width="144" style='mso-width-source:userset;mso-width-alt:4608;'/>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl65" height="19" width="0" style='height:14.25pt;width:0.00pt;' x:str>商品编号</td>
+    <td class="xl65" width="0" style='width:0.00pt;' x:str>商品编码</td>
+    <td class="xl65" width="742" style='width:556.50pt;' x:str>商品名称</td>
+    <td class="xl65" width="144" style='width:108.00pt;' x:str>市本级分佣</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2135."></td>
+    <td class="xl66" x:str>HZHJ-0013-0720-13</td>
+    <td class="xl66" x:str>【杭州邮政】百猴图明信片</td>
+    <td class="xl66" x:num>9.24</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2592."></td>
+    <td class="xl66" x:str>HZHJ-0005-0700-09</td>
+    <td class="xl66" x:str>【杭州邮政】《寄给远方的归人》郑愁予诗歌明信片</td>
+    <td class="xl66" x:num>7</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2761."></td>
+    <td class="xl66" x:str>HZHJ-0002-0700-5</td>
+    <td class="xl66" x:str>【杭州邮政】“喜迎G20”《杭州映像诗》明信片</td>
+    <td class="xl66" x:num>7</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2611."></td>
+    <td class="xl66" x:str>HZHJ-0012-0400-07</td>
+    <td class="xl66" x:str>【杭州邮政】刘海栗国画邮资明信片册</td>
+    <td class="xl66" x:num>5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2612."></td>
+    <td class="xl66" x:str>HZHJ-0011-0400-07</td>
+    <td class="xl66" x:str>【杭州邮政】刘海粟油画邮资明信片册</td>
+    <td class="xl66" x:num>5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2614."></td>
+    <td class="xl66" x:str>HZHJ-0010-0500-09</td>
+    <td class="xl66" x:str>【杭州邮政】《超人》珍藏明信片</td>
+    <td class="xl66" x:num>5.35</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2615."></td>
+    <td class="xl66" x:str>HZHJ-0009-0600-11</td>
+    <td class="xl66" x:str>【杭州邮政】《蝙蝠侠》 珍藏明信片</td>
+    <td class="xl66" x:num>6.42</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2616."></td>
+    <td class="xl66" x:str>HZHJ-0008-0600-11</td>
+    <td class="xl66" x:str>【杭州邮政】二十四节气明信片册</td>
+    <td class="xl66" x:num>8.58</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2621."></td>
+    <td class="xl66" x:str>HZHJ-0001-0600-08</td>
+    <td class="xl66" x:str>【杭州邮政】“喜迎G20”运河风情手绘明信片</td>
+    <td class="xl66" x:num>6</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2632."></td>
+    <td class="xl66" x:str>HZHJ-0015-4400-79</td>
+    <td class="xl66" x:str>[杭州邮政]2016超级旅游护照家庭版</td>
+    <td class="xl66" x:num>45.4</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2679."></td>
+    <td class="xl66" x:str>HZHJ-0017-4560-82</td>
+    <td class="xl66" x:str>【杭州邮政】《伟大的胜利》大阅兵纪念限量邮资明信片册＋纪念邮票珍藏套装</td>
+    <td class="xl66" x:num>50.98</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2778."></td>
+    <td class="xl66" x:str>HZHJ-0003-0700-08</td>
+    <td class="xl66" x:str>[杭州邮政]《美丽西溪 人文桃源》珍藏明信片</td>
+    <td class="xl66" x:num>7</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="2780."></td>
+    <td class="xl66"></td>
+    <td class="xl66" x:str>[杭州邮政]“喜迎G20，畅游杭州“集戳本</td>
+    <td class="xl66" x:num>2.5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3329."></td>
+    <td class="xl66" x:str>HZHJ-0019-2400-43</td>
+    <td class="xl66" x:str>【杭州邮政】《福猴满堂》丙申猴票2016猴年邮资图大全套</td>
+    <td class="xl66" x:num>27.42</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3505."></td>
+    <td class="xl66" x:str>HZHJ-0027-0500-5</td>
+    <td class="xl66" x:str>【杭州邮政】预售《美丽杭州 诗意西湖》西湖十景诗歌明信片</td>
+    <td class="xl66" x:num>12</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3328."></td>
+    <td class="xl66" x:str>HZHJ-0018-6720-121</td>
+    <td class="xl66" x:str>【杭州邮政】中国大阅兵（上下册）</td>
+    <td class="xl66" x:num>72.48</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3331."></td>
+    <td class="xl66" x:str>HZHJ-0004-0900-10</td>
+    <td class="xl66" x:str>【杭州邮政】《美丽中国·西溪湿地》邮票明信片珍藏折</td>
+    <td class="xl66" x:num>9.58</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3333."></td>
+    <td class="xl66" x:str>HZHJ-0021-0720-13</td>
+    <td class="xl66" x:str>【杭州邮政】G20二十国花卉明信片</td>
+    <td class="xl66" x:num>9.96</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3336."></td>
+    <td class="xl66" x:str>HZHJ-0022-0200-4</td>
+    <td class="xl66" x:str>【杭州邮政】预售《猴年马月》贺卡明信片，含贺卡封</td>
+    <td class="xl66" x:num>3.24</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3337."></td>
+    <td class="xl66" x:str>HZHJ-0023-0400-7</td>
+    <td class="xl66" x:str>【杭州邮政】四大名著之《红楼梦》明信片套装</td>
+    <td class="xl66" x:num>5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3338."></td>
+    <td class="xl66" x:str>HZHJ-0024-0400-7</td>
+    <td class="xl66" x:str>【杭州邮政】四大名著之《水浒传》明信片套装</td>
+    <td class="xl66" x:num>5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3340."></td>
+    <td class="xl66" x:str>HZHJ-0025-0400-7</td>
+    <td class="xl66" x:str>【杭州邮政】四大名著之《西游记》明信片套装</td>
+    <td class="xl66" x:num>5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3341."></td>
+    <td class="xl66" x:str>HZHJ-0026-0400-7</td>
+    <td class="xl66" x:str>【杭州邮政】四大名著之《三国演义》明信片套装</td>
+    <td class="xl66" x:num>5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3476."></td>
+    <td class="xl66" x:str>HZHJ-0006-1000-18</td>
+    <td class="xl66" x:str>【杭州邮政】生肖猴封片大全套</td>
+    <td class="xl66" x:num>14.12</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3478."></td>
+    <td class="xl66" x:str>HZHJ-0016-1900-34</td>
+    <td class="xl66" x:str>【杭州邮政】2016超级旅游护照个人版</td>
+    <td class="xl66" x:num>21.65</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="3837."></td>
+    <td class="xl66" x:str>HZHJ-0007-0720-13</td>
+    <td class="xl66" x:str>【杭州邮政】荧光猴丙申年贺岁纪念邮折</td>
+    <td class="xl66" x:num>10.16</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4065."></td>
+    <td class="xl66" x:str>HZHJ-0028-0200-1</td>
+    <td class="xl66" x:str>【杭州邮政】G20纪念丝绸团扇套装</td>
+    <td class="xl66" x:num>2</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4088."></td>
+    <td class="xl66" x:str>HZHJ-0027-1200-11</td>
+    <td class="xl66" x:str>【杭州邮政】“喜迎G20”《美丽杭州 诗意西湖》西湖十景诗歌明信片</td>
+    <td class="xl66" x:num>12</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4092."></td>
+    <td class="xl66" x:str>HZHJ-0029-0080-1</td>
+    <td class="xl66" x:str>G20纪念版邮资封、明信片</td>
+    <td class="xl66" x:num>1.06</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4112."></td>
+    <td class="xl66" x:str>HZHJ-0030-0600-11</td>
+    <td class="xl66" x:str>【杭州邮政】《2016中国邮政封片开奖臻典》邮折</td>
+    <td class="xl66" x:num>6.12</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4134."></td>
+    <td class="xl66" x:str>HZHJ-0031-0320-6</td>
+    <td class="xl66" x:str>《2016“灵猴献瑞 马到成功”丝绢荧光明信片》珍藏折</td>
+    <td class="xl66" x:num>3.4</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4283."></td>
+    <td class="xl66" x:str>HZHJ-0036-0700-19</td>
+    <td class="xl66" x:str>【杭州邮政】吴冠中四季系列套装（含明信片、笔记本）</td>
+    <td class="xl66" x:num>10.84</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4197."></td>
+    <td class="xl66" x:str>HZHJ-0032-1200-13</td>
+    <td class="xl66" x:str>【杭州邮政】流光溢彩二十国G20峰会风景明信片（风景版）</td>
+    <td class="xl66" x:num>12</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4198."></td>
+    <td class="xl66" x:str>HZHJ-0033-1200-13</td>
+    <td class="xl66" x:str>【杭州邮政】流光溢彩二十国G20峰会风情明信片（建筑版）</td>
+    <td class="xl66" x:num>12</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4264."></td>
+    <td class="xl66" x:str>HZHJ-0034-0200-4</td>
+    <td class="xl66" x:str>【杭州邮政】《最忆是杭州》集戳本</td>
+    <td class="xl66" x:num>2.5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4265."></td>
+    <td class="xl66" x:str>HZHJ-0035-1600-13</td>
+    <td class="xl66" x:str>【杭州邮政】预售（9月陆续发货）《盛世峰会·韵味杭州》纪念珍藏册（预订优惠）</td>
+    <td class="xl66" x:num>16</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4796."></td>
+    <td class="xl66" x:str>HZHJ-0035-1600-13</td>
+    <td class="xl66" x:str>【杭州邮政】预售（9月陆续发货）《盛世峰会·韵味杭州》纪念珍藏册(内部自提)（预订优惠）</td>
+    <td class="xl66" x:num>16</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="4888."></td>
+    <td class="xl66" x:str>HZHJ-0038-5000-149</td>
+    <td class="xl66" x:str>【杭州邮政】盛世繁花G20峰会真丝明信片丝巾套装</td>
+    <td class="xl66" x:num>50</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="5040."></td>
+    <td class="xl66" x:str>HZHJ-0039-0250-1</td>
+    <td class="xl66" x:str>【杭州邮政】G20纪念丝绸折扇套装</td>
+    <td class="xl66" x:num>2.5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="5226."></td>
+    <td class="xl66" x:str>HZHJ-0040-3000-47</td>
+    <td class="xl66" x:str>【杭州邮政】《诗意杭州 峰会献礼》G20峰会珍藏丝巾礼盒套装</td>
+    <td class="xl66" x:num>30</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="5184."></td>
+    <td class="xl66" x:str>HZHJ-0038-5000-149</td>
+    <td class="xl66" x:str>【杭州邮政】盛世繁花G20峰会真丝明信片丝巾套装（内部自提）</td>
+    <td class="xl66" x:num>50</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="5672."></td>
+    <td class="xl66" x:str>HZHJ-0041-0001-11</td>
+    <td class="xl66" x:str>【杭州邮政】浪漫的约会（让·皮埃尔的西湖十景）明信片</td>
+    <td class="xl66" x:num>10</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="6256."></td>
+    <td class="xl66" x:str>HZHJ-0035-1600-13</td>
+    <td class="xl66" x:str>【杭州邮政】《盛世峰会·韵味杭州》纪念珍藏册</td>
+    <td class="xl66" x:num>20</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="6262."></td>
+    <td class="xl66" x:str>HZHJ-0035-1600-13</td>
+    <td class="xl66" x:str>【杭州邮政】（9月中旬到货）《盛世峰会·韵味杭州》纪念珍藏册</td>
+    <td class="xl66" x:num>20</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="7343."></td>
+    <td class="xl66" x:str>HZHJ-0035-1600-13</td>
+    <td class="xl66" x:str>【杭州邮政】预售《盛世峰会·韵味杭州》纪念珍藏册（内部自提）</td>
+    <td class="xl66" x:num>20</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="6446."></td>
+    <td class="xl66" x:str>HZHJ-0028-0200-1</td>
+    <td class="xl66" x:str>【杭州邮政】杭州特色丝绸团扇</td>
+    <td class="xl66" x:num>2</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="6455."></td>
+    <td class="xl66" x:str>HZHJ-0039-0250-1</td>
+    <td class="xl66" x:str>【杭州邮政】杭州韵味古风折扇</td>
+    <td class="xl66" x:num>2.5</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="7342."></td>
+    <td class="xl66" x:str>HZHJ-0035-1600-13</td>
+    <td class="xl66" x:str>【杭州邮政】《盛世峰会·韵味杭州》纪念珍藏册（每人限购2册，仅邮寄）</td>
+    <td class="xl66" x:num>20</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="7457."></td>
+    <td class="xl66" x:str>HZHJ-0035-1600-13</td>
+    <td class="xl66" x:str>【杭州邮政】（世界邮政日限时特惠）《盛世峰会·韵味杭州》纪念珍藏册（每人限购2套，仅邮寄）</td>
+    <td class="xl66" x:num>16</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl66" height="19" style='height:14.25pt;' x:num="7484."></td>
+    <td class="xl66" x:str>HZHJ-0038-5000-149</td>
+    <td class="xl66" x:str>【杭州邮政】盛世繁花G20峰会真丝明信片丝巾套装（邮政日特惠，限量100套，买就送精美西湖手包）</td>
+    <td class="xl66" x:num>50</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td height="19" colspan="2" style='height:14.25pt;mso-ignore:colspan;'></td>
+    <td class="xl67" x:str>预售-《中国新歌声》官方纪念邮品全国限量发行</td>
+    <td class="xl67" x:num>3</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td height="19" colspan="2" style='height:14.25pt;mso-ignore:colspan;'></td>
+    <td class="xl67" x:str>【杭州邮政】（9月底到货）《盛世峰会·韵味杭州》纪念珍藏册</td>
+    <td class="xl67" x:num>20</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td height="19" colspan="2" style='height:14.25pt;mso-ignore:colspan;'></td>
+    <td class="xl67" x:str>【杭州邮政】预售（9月陆续发货）《盛世峰会·韵味杭州》纪念珍藏册</td>
+    <td class="xl67" x:num>16</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td height="19" colspan="2" style='height:14.25pt;mso-ignore:colspan;'></td>
+    <td class="xl68" x:str>【杭州邮政】杭州韵味古风团扇含一张明信片（原价19.9元，特惠价14.9元）</td>
+    <td class="xl68" x:num>2</td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td height="19" colspan="2" style='height:14.25pt;mso-ignore:colspan;'></td>
+    <td class="xl69" x:str>【杭州邮政】预售《盛世峰会·韵味杭州》纪念珍藏册</td>
+    <td class="xl69" x:num>16</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="0" style='width:0;'></td>
+     <td width="0" style='width:0;'></td>
+     <td width="742" style='width:557;'></td>
+     <td width="144" style='width:108;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
