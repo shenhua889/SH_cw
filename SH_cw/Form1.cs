@@ -133,7 +133,7 @@ namespace SH_cw
                 temp_dr[0] = dr[0];
                 string MC = dr[0].ToString();
                 decimal Amount = 0;
-                foreach(Match match in Regex.Matches(MC, @"[、“”【】-（）《》·\[\]\w]*\s\*\s\d*"))
+                foreach(Match match in Regex.Matches(MC, @"[、“”【】-（）《》·\[\]\w]*\s?[、“”【】-（）《》·\[\]\w]*\s\*\s\d*"))
                 {
                     string[] split = match.ToString().Split('*');
                     string name = split[0].Trim();
